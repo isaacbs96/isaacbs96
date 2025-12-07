@@ -5,6 +5,7 @@ Sou do Rio de Janeiro e trabalho criando soluções web e automatizando processo
 
 Trabalho principalmente com <strong>JavaScript</strong> e <strong>Python</strong>, e nos últimos tempos venho me aprofundando em Inteligência Artificial e Visão Computacional usando <strong>TensorFlow</strong> e <strong>PyTorch</strong>, explorando formas de aplicar essas tecnologias em cenários reais.
 </p>
+
 ---
 
 ### 📬 Contatos
