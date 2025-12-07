@@ -53,13 +53,4 @@ Trabalho principalmente com <strong>JavaScript</strong> e <strong>Python</strong
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
----
 
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/drakesenpai96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drakesenpai96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakesenpai96&layout=compact&theme=dracula"/>
-  </a>
-</div>
